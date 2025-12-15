@@ -1,0 +1,7 @@
+treefile = family_ingroup2.tre
+datafile = FAMILY_AREAS.data
+areanames = a b c d e f g h i
+
+includedists = 2
+ancstate = _all_
+states
