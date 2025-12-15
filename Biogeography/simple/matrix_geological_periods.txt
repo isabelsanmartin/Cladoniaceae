@@ -1,0 +1,10 @@
+		start	end
+Quaternary	2.588	0.000
+Pliocene	5.333	2.588
+Late-Miocene	11.63	5.333
+Mid-Miocene	15.97	11.63
+Early-Miocene	23.03	15.97
+Late-Oligocene	27.82	23.03
+Early-Oligocene	33.900	27.82
+Late-Eocene	41.20	33.90
+Early-Eocene	56.00	41.20
