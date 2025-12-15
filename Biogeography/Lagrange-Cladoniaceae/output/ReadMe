@@ -1,1 +1,4 @@
-
+Biogeographic analysis of the family Cladoniaceae using lagrange_cpp: Output files. 
+"family_ingroup2.tre.bgkey.tre": Dated phylogenetic tree depicting the node numbers. Open in Figtree and visualize with "label".
+"family_ingroup2.tre.bgstates.tre": Dated phylogenetic tree with inferred ancestral ranges. Open in Figtree and visualize with "label".
+"output_4areas.txt": Output text file from lagrange_cpp listing the inferred ancestral ranges, (-ln) likelihood values, and associated uncertainty. See "FAMILY_AREAS.data" for area codes.
